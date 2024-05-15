@@ -5,3 +5,9 @@ tesseract-ocr
 libtesseract-dev
 libtesseract4
 tesseract-ocr-all
+streamlit==1.18.1
+opencv-python==4.5.5.62
+mediapipe==0.8.10
+numpy==1.21.6
+Pillow==9.0.1
+SpeechRecognition==3.8.1
